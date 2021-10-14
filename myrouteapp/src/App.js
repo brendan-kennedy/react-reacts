@@ -9,6 +9,7 @@ import { Route, Switch } from 'react-router-dom'
 
 const App = () => {
   return (
+  
   <div>
    <h1> Brendan's Buying Bonanza </h1> 
    <NavBar /> 
@@ -24,7 +25,7 @@ const App = () => {
         </Route>
       </Switch>
     </div>
-  
+   
   )
 }
 
